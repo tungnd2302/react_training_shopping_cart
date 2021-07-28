@@ -1,0 +1,11 @@
+.item {
+	/*border: 1px solid #ccc*/
+}
+
+img {
+	height: 198px !important;
+}
+
+.item .item-detail {
+	margin-top: 10px
+}
